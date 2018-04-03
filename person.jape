@@ -1,0 +1,15 @@
+
+Phase:personality
+Input:Lookup Person Token
+
+Rule: otherPersons
+({Lookup.majorType == "jobtitle"}|{Lookup.majorType == "title"}):hisTitle(({Token.category == "NNP", Token.orth == "upperInitial"})+):APerson
+-->
+:APerson.Aperson = {title = :hisTitle@cleanString, personName = :APerson@cleanString}
+//{
+//	AnnotationSet synSentence = bindings.get("SynSentence");
+//	System.out.println(synSentence);
+//	inputAS.removeAll(synSentence);
+//}
+
+

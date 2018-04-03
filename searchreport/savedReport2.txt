@@ -1,0 +1,62 @@
+Searching for occurences of phrase "Brexit Growth"...Total Results for "Brexit growth" = 1
+---------------------------------------------------------
+The phrase "Brexit Growth" can be found in document = 17
+---------------------------------------------------------
+Searching for occurences of phrase "Trump growth"...Total Results for "Trump Growth" = 0
+---------------------------------------------------------
+---------------------------------------------------------
+Searching for occurences of "brexit" and "growth"...Total Occurrences for "Brexit Growth" = 18
+Documents containing 'brexit' and 'growth' = 17
+Documents containing 'brexit' and 'growth' = 20
+Documents containing 'brexit' and 'growth' = 35
+Documents containing 'brexit' and 'growth' = 50
+Documents containing 'brexit' and 'growth' = 54
+Documents containing 'brexit' and 'growth' = 31
+Documents containing 'brexit' and 'growth' = 51
+Documents containing 'brexit' and 'growth' = 43
+Documents containing 'brexit' and 'growth' = 32
+Documents containing 'brexit' and 'growth' = 33
+Documents containing 'brexit' and 'growth' = 34
+Documents containing 'brexit' and 'growth' = 5
+Documents containing 'brexit' and 'growth' = 7
+Documents containing 'brexit' and 'growth' = 3
+Documents containing 'brexit' and 'growth' = 18
+Documents containing 'brexit' and 'growth' = 4
+Documents containing 'brexit' and 'growth' = 56
+Documents containing 'brexit' and 'growth' = 13
+---------------------------------------------------------
+
+
+Searching for "Trump" and "Growth"...
+---------------------------------------------------------
+Total Occurrences for "Trump" and "Growth" = 36
+Documents containing 'Trump' and 'growth' = 7
+Documents containing 'Trump' and 'growth' = 5
+Documents containing 'Trump' and 'growth' = 3
+Documents containing 'Trump' and 'growth' = 31
+Documents containing 'Trump' and 'growth' = 13
+Documents containing 'Trump' and 'growth' = 4
+Documents containing 'Trump' and 'growth' = 20
+Documents containing 'Trump' and 'growth' = 17
+Documents containing 'Trump' and 'growth' = 35
+Documents containing 'Trump' and 'growth' = 56
+Documents containing 'Trump' and 'growth' = 32
+Documents containing 'Trump' and 'growth' = 33
+Documents containing 'Trump' and 'growth' = 34
+Documents containing 'Trump' and 'growth' = 50
+Documents containing 'Trump' and 'growth' = 54
+Documents containing 'Trump' and 'growth' = 38
+Documents containing 'Trump' and 'growth' = 55
+Documents containing 'Trump' and 'growth' = 1
+Documents containing 'Trump' and 'growth' = 6
+Documents containing 'Trump' and 'growth' = 14
+Documents containing 'Trump' and 'growth' = 45
+Documents containing 'Trump' and 'growth' = 16
+Documents containing 'Trump' and 'growth' = 37
+Documents containing 'Trump' and 'growth' = 57
+Documents containing 'Trump' and 'growth' = 36
+Documents containing 'Trump' and 'growth' = 39
+Documents containing 'Trump' and 'growth' = 42
+Documents containing 'Trump' and 'growth' = 53
+Documents containing 'Trump' and 'growth' = 18
+Documents containing 'Trump' and 'growth' = 8
